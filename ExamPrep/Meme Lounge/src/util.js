@@ -23,3 +23,7 @@ export function getFormDataAsObj(e) {
 
     return dataAsObj;
 }
+
+export function hey() {
+
+}
